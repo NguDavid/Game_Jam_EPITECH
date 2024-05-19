@@ -1,0 +1,3 @@
+[gd_scene format=2]
+
+[node name="Grass_effect" type="Node2D"]
